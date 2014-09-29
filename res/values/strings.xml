@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloNFC</string>
+    <string name="nfc_unsupported">Your device does not support NFC.</string>
+    <string name="nfc_disabled">NFC is disabled.</string>
+    <string name="nfc_ready">Approach a NFC Tag!</string>
+    <string name="hello_nfc">Hello NFC!</string>
+
+</resources>
+
+
+
+
+
